@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+}
+body{
+	background: url(../img.jpg);
+	background-size: cover;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+
+}
+.container{
+	width: 500px;
+	margin: 0 auto;
+
+}
+
+.login-section{
+ background-color: #4f6550;
+ width: 500px;
+ text-align: center;
+ border-radius: 10px;
+ padding: 50px;
+ margin-top:137px;
+}
+
+}
+.login-section img{
+	width: 250px;
+	margin: 0 auto;
+	display: block;
+
+
+}
+
+
+.login-section h2{
+text-align: center;
+color: white;
+margin: 10px 0px; 
+}
+
+.form-control{
+width: 100%;
+padding:10px 10px;
+margin-bottom: 10px; 
+}
+
+.btn{
+padding:5px 25px;
+background-color: green;
+text-transform: capitalize;
+cursor: pointer;
+}
+	
